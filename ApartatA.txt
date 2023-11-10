@@ -1,0 +1,21 @@
+1. mkdir cfernandez
+2. cd cfernandez
+3. touch ApartatA.txt
+4. mkdir un dos tres
+5. echo "Carlos Fernandez" > un.txt
+6. ps aux > /U3AP6/dos/processos.txt
+7. cd dos
+8. grep "root" processos.txt
+9. awk '{print $2, $9}' processos.txt
+10. grep -n root processos.txt
+11. cat processos.txt | awk '{print $1":"$2":"$11}' | grep :[1-9]:
+12. cd tres
+13. grep -i "Moby" MobyDick.txt | wc -l
+14. grep -ic "Moby" MobyDick.txt
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
+21. 
